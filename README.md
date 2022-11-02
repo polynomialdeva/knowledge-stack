@@ -4,7 +4,7 @@
 
 # Contents (IN PROGRESS)
 - [Curriculum](#curriculum)
-- [Programming Languages](#programming languages)
+- [Programming Languages](#Programming Languages)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
