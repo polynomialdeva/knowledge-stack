@@ -5,10 +5,11 @@
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
-    -[Python](#Python)
-    -[Java](#Java)
-    -[C/C++](#C/C++)
-    -[Go](#Go)
+  -[Python](#Python)
+  -[Java](#Java)
+  -[C/C++](#C/C++)
+  -[JavaScript](#JavaScript)
+  -[Go](#Go)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
@@ -24,19 +25,25 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 
 
 ## Programming Languages
-### Python
-### Java
-### C/C++
-### Go
+### Python:
+### Java:
+### C/C++:
+### Javascript:
+### Go:
 
 ## Linux/bash
+- [Linux Journey](https://linuxjourney.com/)
 
 ## AI/ML
 
 ## Robotics/hardware/electronics
 - [NAND2Tetris](https://www.nand2tetris.org/)
-- 
+- [ROS (Robot Operating System) Tutorial](https://github.com/usydroboticsclub/ros)
+- [ROS Wiki](https://wiki.ros.org/)
+- [RobotX](https://robotx.org/)
+
 ## Maths
+- [How to Think Like a Mathematician](https://blngcc.files.wordpress.com/2008/11/2-kevin-houston-how-to-think-like-a-mathematician.pdf)
 
 ## DSA
 - [LeetCode](https://leetcode.com/)
