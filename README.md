@@ -11,17 +11,18 @@
 - [Maths](#Maths)
 - [Misc](#Misc)
 
-#Curriculum
+
+# Curriculum
 [Open Source CS curriculum](https://github.com/ossu/computer-science)
 
-#Programming Languages
+# Programming Languages
 
-#Linux/bash
+# Linux/bash
 
-#AI/ML
+# AI/ML
 
-#Robotics/hardware/electronics
+# Robotics/hardware/electronics
+ 
+# Maths
 
-#Maths
-
-#Misc
+# Misc
