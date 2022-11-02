@@ -5,30 +5,44 @@
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
-  -[Python](#Python)
-  -[Java](#Java)
+    -[Python](#Python)
+    -[Java](#Java)
+    -[C/C++](#C/C++)
+    -[Go](#Go)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
 - [Maths](#Maths)
+- [DSA](#DSA)
 - [Misc](#Misc)
 
 
-# Curricula
+## Curricula
 Some of the links have somewhat click-baity/cringe names, but they are all well rounded resources for self-learning content.
 - [Open Source CS curriculum](https://github.com/ossu/computer-science)
 - [Teach yourself CS](https://teachyourselfcs.com/)
 
 
-# Programming Languages
-## Python
-## Java
-# Linux/bash
+## Programming Languages
+### Python
+### Java
+### C/C++
+### Go
 
-# AI/ML
+## Linux/bash
 
-# Robotics/hardware/electronics
+## AI/ML
+
+## Robotics/hardware/electronics
 - [NAND2Tetris](https://www.nand2tetris.org/)
-# Maths
+- 
+## Maths
 
-# Misc
+## DSA
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [NeetCode](https://neetcode.io/)
+- [Big O Notation cheat sheet](https://www.bigocheatsheet.com/)
+- 
+
+## Misc
