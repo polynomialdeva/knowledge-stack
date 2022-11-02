@@ -1,7 +1,7 @@
 <h2 align="center"> curated-misc </h2>
 <p align="center"> Selection of bookmarks and resources that are geared towards various niches in CS and engineering. </p>
 <p align="center"> I'm a serial bookmark hoarder so I thought this would be a good way to reduce clutter in my browser and also direct people to links more easily. </p>
-
+<p align="center"> **If any of the links are broken are unavailable, feel free to send a pull request or contact me on Discord at `s5#2707`** </p>
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
@@ -29,6 +29,7 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 
 ## Programming Languages
 ### Python:
+- [Python Resources](https://79kimmy.github.io/python/)
 - [W3Schools Python](https://www.w3schools.com/python/)
 - [Google: Intro to Python](https://developers.google.com/edu/python/)
 ### Java:
@@ -78,4 +79,5 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 ## Misc
 - [TryHackMe](https://tryhackme.com/)
 - [Free software services for developers](https://free-for.dev/#/)
+- [Guide to Competitive Programming](https://usaco.guide/CPH.pdf)
 
