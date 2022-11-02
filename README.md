@@ -71,6 +71,7 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 
 ## DSA
 - [LeetCode](https://leetcode.com/)
+- [CodeForces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)
 - [CodeChef](https://www.codechef.com/)
@@ -79,7 +80,9 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 - [Binary Search](https://binarysearch.com/)
 
 ## Misc
+- [Even more curated resources related to CS/programming](https://progdisc.club/resources/)
 - [TryHackMe](https://tryhackme.com/)
 - [Free software services for developers](https://free-for.dev/#/)
 - [Guide to Competitive Programming](https://usaco.guide/CPH.pdf)
+- [CS Internships 101](https://docs.google.com/document/d/1x6uVpjK-bDc7_Up9Gofr91-qovdc2eZW_DpI1N9oNfo/edit)
 
