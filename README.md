@@ -34,13 +34,20 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 ### Java:
 ### C/C++:
 ### Javascript:
+- [Javascript Tutorial](https://javascript.info/)
+- [Web Development Tutorial- OdinProject](https://www.theodinproject.com/)
 ### Go:
 - [Go Tutorial](https://go.dev/tour/welcome/1)
 
 ## Linux/bash/FOSS
 - [Linux Journey](https://linuxjourney.com/)
+- [GNU/Linux resources](https://fglt.nl/)
+- [What Linux distribution do I choose?](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)
+- [Arch Wiki (extensive documentation on Linux packages etc.)](https://wiki.archlinux.org/)
 - [OverTheWire - Interactive Terminal Game](https://overthewire.org/wargames/bandit/)
 - [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
+- [Linux Basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics)
+- [VIM cheatsheet](https://devhints.io/vim)
 
 ## AI/ML
 - [Google - Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -70,5 +77,5 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 
 ## Misc
 - [TryHackMe](https://tryhackme.com/)
-- 
+- [Free software services for developers](https://free-for.dev/#/)
 
