@@ -3,7 +3,7 @@
 <p align="center"> I'm a serial bookmark hoarder so I thought this would be a good way to reduce clutter in my browser and also direct people to links more easily. </p>
 
 # Contents (IN PROGRESS)
-- [Curriculum](#curriculum)
+- [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
@@ -12,7 +12,7 @@
 - [Misc](#Misc)
 
 
-# Curriculum
+# Curricula
 [Open Source CS curriculum](https://github.com/ossu/computer-science)
 
 # Programming Languages
