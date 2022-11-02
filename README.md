@@ -5,6 +5,8 @@
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
+  -[Python](#Python)
+  -[Java](#Java)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
@@ -13,16 +15,20 @@
 
 
 # Curricula
-[Open Source CS curriculum](https://github.com/ossu/computer-science)
+Some of the links have somewhat click-baity/cringe names, but they are all well rounded resources for self-learning content.
+- [Open Source CS curriculum](https://github.com/ossu/computer-science)
+- [Teach yourself CS](https://teachyourselfcs.com/)
+
 
 # Programming Languages
-
+## Python
+## Java
 # Linux/bash
 
 # AI/ML
 
 # Robotics/hardware/electronics
- 
+- [NAND2Tetris](https://www.nand2tetris.org/)
 # Maths
 
 # Misc
