@@ -78,6 +78,7 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 - [CodeWars](https://www.codewars.com/)
 - [Big O Notation cheat sheet](https://www.bigocheatsheet.com/)
 - [Binary Search](https://binarysearch.com/)
+- [Data Structures and Algorithms in Python - Free Code Camp Tutorial](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
 ## Misc
 - [Even more curated resources related to CS/programming](https://progdisc.club/resources/)
