@@ -30,16 +30,22 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 ## Programming Languages
 ### Python:
 - [W3Schools Python](https://www.w3schools.com/python/)
+- [Google: Intro to Python](https://developers.google.com/edu/python/)
 ### Java:
 ### C/C++:
 ### Javascript:
 ### Go:
+- [Go Tutorial](https://go.dev/tour/welcome/1)
 
 ## Linux/bash/FOSS
 - [Linux Journey](https://linuxjourney.com/)
+- [OverTheWire - Interactive Terminal Game](https://overthewire.org/wargames/bandit/)
+- [Build your own text editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 ## AI/ML
 - [Google - Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [PyTorch Documentation & Tutorials](https://pytorch.org/tutorials/)
+- [Neural Networks from Scratch](https://nnfs.io/)
 
 ## Robotics/hardware/electronics
 - [NAND2Tetris](https://www.nand2tetris.org/)
@@ -51,13 +57,18 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 - [How to Think Like a Mathematician](https://blngcc.files.wordpress.com/2008/11/2-kevin-houston-how-to-think-like-a-mathematician.pdf)
 - [Project Euler](https://projecteuler.net/)
 - [Truth Tables, Tautologies and Logical Equivalences](https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html)
+- [Professor Leonard - Calculus I, II and III](https://www.youtube.com/c/ProfessorLeonard/playlists)
 
 ## DSA
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)
+- [CodeChef](https://www.codechef.com/)
+- [CodeWars](https://www.codewars.com/)
 - [Big O Notation cheat sheet](https://www.bigocheatsheet.com/)
-- 
+- [Binary Search](https://binarysearch.com/)
 
 ## Misc
+- [TryHackMe](https://tryhackme.com/)
+- 
 
