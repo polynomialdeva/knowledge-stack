@@ -28,6 +28,7 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 - [How to Design Programs](https://htdp.org/)
 - [Structure and Interpretation of Computer Programs (Lisp)](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [Structure and Interpretation of Computer Programs (JavaScript)](https://freecomputerbooks.com/Structure-and-Interpretation-of-Computer-Programs-JavaScript-Edition.html)
+- [The Art of Computer Programming by Donald E. Knuth](https://au1lib.org/book/2714421/445224)
 
 ## Programming Languages
 ### Python:
