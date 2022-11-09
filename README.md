@@ -12,6 +12,7 @@
   - [C/C++](#C/C++)
   - [JavaScript](#JavaScript)
   - [Go](#Go)
+  - [Rust](#Rust)
 - [Linux/bash](#Linux/bash)
 - [AI/ML](#AI/ML)
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
@@ -21,7 +22,7 @@
 
 
 ## Curricula
-Some of the links have somewhat click-baity/cringe names, but they are all well rounded resources for self-learning content.
+A few links to both Github lists and popular CS literature.
 - [Open Source CS curriculum](https://github.com/ossu/computer-science)
 - [Teach yourself CS](https://teachyourselfcs.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org)
@@ -42,6 +43,8 @@ Some of the links have somewhat click-baity/cringe names, but they are all well 
 - [Web Development Tutorial- OdinProject](https://www.theodinproject.com/)
 ### Go:
 - [Go Tutorial](https://go.dev/tour/welcome/1)
+### Rust:
+
 
 ## Linux/bash/FOSS
 - [Linux Journey](https://linuxjourney.com/)
