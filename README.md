@@ -37,6 +37,7 @@ A few links to both Github lists and popular CS literature.
 - [W3Schools Python](https://www.w3schools.com/python/)
 - [Google: Intro to Python](https://developers.google.com/edu/python/)
 ### Java:
+- [Full Java Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 ### C/C++:
 ### Javascript:
 - [Javascript Tutorial](https://javascript.info/)
