@@ -45,7 +45,9 @@ A few links to both Github lists and popular CS literature.
 ### Go:
 - [Go Tutorial](https://go.dev/tour/welcome/1)
 ### Rust:
-
+- [Official Rust-Lang Guide](https://doc.rust-lang.org/book/)
+- [Official Embedded Rust Guide](https://docs.rust-embedded.org/book/)
+- [Programming Rust - Systems development book - (tor onion link)](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/book/16688977/57005c)
 
 ## Linux/bash/FOSS
 - [Linux Journey](https://linuxjourney.com/)
