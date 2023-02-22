@@ -39,6 +39,8 @@ A few links to both Github lists and popular CS literature.
 ### Java:
 - [Full Java Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 ### C/C++:
+- [C Full Tutorial](https://www.youtube.com/watch?v=87SH2Cn0s9A)
+- [C++ Full Tutorial](https://www.youtube.com/watch?v=-TkoO8Z07hI)
 ### Javascript:
 - [Javascript Tutorial](https://javascript.info/)
 - [Web Development Tutorial- OdinProject](https://www.theodinproject.com/)
