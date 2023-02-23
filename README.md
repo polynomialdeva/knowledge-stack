@@ -65,6 +65,7 @@ A few links to both Github lists and popular CS literature.
 - [Google - Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [PyTorch Documentation & Tutorials](https://pytorch.org/tutorials/)
 - [Neural Networks from Scratch](https://nnfs.io/)
+- [Pytorch Documentation](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 
 ## Robotics/hardware/electronics
 - [NAND2Tetris](https://www.nand2tetris.org/)
