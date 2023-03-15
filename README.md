@@ -4,7 +4,7 @@
 
 **If any of the links are broken are unavailable, feel free to send a pull request**
 
-# Contents (IN PROGRESS)
+# Contents 
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
   - [Python](#Python)
