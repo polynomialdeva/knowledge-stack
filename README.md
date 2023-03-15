@@ -25,6 +25,7 @@ testing from cmd line
 - [Robotics/hardware/electronics](#Robotics/hardware/electronics)
 - [Maths](#Maths)
 - [DSA](#DSA)
+- [Version Control](#version-control)
 - [Misc](#Misc)
 
 
@@ -98,6 +99,9 @@ A few links to both Github lists and popular CS literature.
 - [Big O Notation cheat sheet](https://www.bigocheatsheet.com/)
 - [Binary Search](https://binarysearch.com/)
 - [Data Structures and Algorithms in Python - Free Code Camp Tutorial](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+
+## Version Control
+- [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 ## Misc
 - [Even more curated resources related to CS/programming](https://progdisc.club/resources/)
