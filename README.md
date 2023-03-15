@@ -32,6 +32,7 @@ A few links to both Github lists and popular CS literature.
 - [The Art of Computer Programming by Donald E. Knuth](https://au1lib.org/book/2714421/445224)
 
 ## Programming Languages
+https://learnxinyminutes.com/
 ### Python:
 - [Python Resources](https://79kimmy.github.io/python/)
 - [W3Schools Python](https://www.w3schools.com/python/)
