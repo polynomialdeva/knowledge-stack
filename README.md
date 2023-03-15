@@ -11,6 +11,7 @@ testing note -- ADD IMAGE HERE - quick change in photoshop tbh - also make this 
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
+  - [General Resources](#General Resources)
   - [Python](#Python)
   - [Java](#Java)
   - [C/C++](#C/C++)
@@ -36,7 +37,8 @@ A few links to both Github lists and popular CS literature.
 - [The Art of Computer Programming by Donald E. Knuth](https://au1lib.org/book/2714421/445224)
 
 ## Programming Languages
-https://learnxinyminutes.com/
+### General Resources:
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 ### Python:
 - [Python Resources](https://79kimmy.github.io/python/)
 - [W3Schools Python](https://www.w3schools.com/python/)
