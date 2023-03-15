@@ -11,7 +11,7 @@ testing note -- ADD IMAGE HERE - quick change in photoshop tbh - also make this 
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
-  - [General Resources](#General Resources)
+  - [General Resources](#general-resources)
   - [Python](#Python)
   - [Java](#Java)
   - [C/C++](#C/C++)
