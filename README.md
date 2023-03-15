@@ -3,7 +3,9 @@
 <p align="center"> I'm a serial bookmark hoarder so I thought this would be a good way to reduce clutter in my browser and also direct people to links more easily. </p>
 
 <!---
-testing note -- ADD IMAGE HERE - quick change in photoshop tbh - also make this into a html website alongside the README.md :)
+testing note -- ADD IMAGE HERE - quick change in photoshop tbh - also make this into a html website alongside the README.md :) 
+
+testing from cmd line
 --->
 
 **If any of the links are broken are unavailable, feel free to send a pull request**
