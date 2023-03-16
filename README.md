@@ -17,7 +17,7 @@ testing from cmd line
   - [Python](#Python)
   - [Java](#Java)
   - [C/C++](#C/C++)
-  - [JavaScript](#JavaScript)
+  - [Webdev](#Webdev)
   - [Go](#Go)
   - [Rust](#Rust)
 - [Linux/bash](#Linux/bash)
@@ -51,9 +51,10 @@ A few links to both Github lists and popular CS literature.
 ### C/C++:
 - [C Full Tutorial](https://www.youtube.com/watch?v=87SH2Cn0s9A)
 - [C++ Full Tutorial](https://www.youtube.com/watch?v=-TkoO8Z07hI)
-### Javascript:
+### Webdev:
 - [Javascript Tutorial](https://javascript.info/)
 - [Web Development Tutorial- OdinProject](https://www.theodinproject.com/)
+- [Mozilla Web Development Tutorial](https://developer.mozilla.org/en-US/docs/Learn) 
 ### Go:
 - [Go Tutorial](https://go.dev/tour/welcome/1)
 ### Rust:
