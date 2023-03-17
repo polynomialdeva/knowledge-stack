@@ -5,10 +5,10 @@
 <!---
 testing note -- ADD IMAGE HERE - quick change in photoshop tbh - also make this into a html website alongside the README.md :) 
 
-testing from cmd line
+use one of those chan guides to make a flow chart of sorts to navigate the resources
 --->
 
-**If any of the links are broken are unavailable, feel free to send a pull request**
+<p align="center"> <b> If any of the links are broken are unavailable, feel free to send a pull request </b> </p>
 
 # Contents (IN PROGRESS)
 - [Curricula](#curricula)
