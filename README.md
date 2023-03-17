@@ -10,7 +10,7 @@ use one of those chan guides to make a flow chart of sorts to navigate the resou
 
 <p align="center"> <b> If any of the links are broken are unavailable, feel free to send a pull request </b> </p>
 
-# Contents (IN PROGRESS)
+# Contents 
 - [Curricula](#curricula)
 - [Programming Languages](#Programming-Languages)
   - [General Resources](#general-resources)
